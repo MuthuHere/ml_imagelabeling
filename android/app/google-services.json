@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594819704217",
+    "project_id": "machinelearning-4a0f8",
+    "storage_bucket": "machinelearning-4a0f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594819704217:android:b135a747b3fc51c25cdf08",
+        "android_client_info": {
+          "package_name": "com.muthu.ml_firebase_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594819704217-uk06lt7vgv00lk73bsv8obagcucphbjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAielN-EvmkF8-Lr0U8_IF7qHrsHGdvHt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594819704217-uk06lt7vgv00lk73bsv8obagcucphbjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
